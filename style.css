@@ -20,13 +20,15 @@ img {
     display: block;
     margin: 0 auto;
     height: auto;
+    border: 10px solid #e8ebe1;
 }
 
 h1 {
     color:#d3e6a5;
     text-align:center;
-    font-size: 100px;
+    font-size: 50px;
     font-family:fantasy;
+
 }
 
 .subtitulo {
@@ -34,4 +36,22 @@ h1 {
     text-align:center;
     font-size:20px;
     font-family:fantasy;
+}
+ 
+h2 {
+    color:#d3e6a5;
+    text-align:center;
+    font-size: 20px;
+    font-family:fantasy;
+}
+
+div{
+    border-left:5px solid #d3e6a5;
+    border-right:5px solid #d3e6a5;
+    border-top:5px solid #d3e6a5;
+    border-bottom:5px solid #d3e6a5;
+    padding: 20px;
+    
+
+
 }
